@@ -1,0 +1,41 @@
+@media only screen and (max-width: 362px) {
+.img-adjust{
+  width: 100%;
+}
+
+
+}
+
+@media only screen and (max-width: 448px){
+  tr th{
+    padding: 0
+}
+
+.passport {
+  width: 55%;
+}
+.aboutself{
+  width: 55%;
+  padding: 5px;
+}
+
+.LANG div:first-child{
+  padding-left: 2px
+}
+
+
+}
+
+@media only screen and (max-width: 768px){
+  body{
+    font-size: 0.8125rem;
+  }
+
+}
+
+@media only screen and (max-width: 360px){
+  body{
+    font-size: 0.7rem;
+  }
+
+}
